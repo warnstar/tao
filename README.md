@@ -119,7 +119,7 @@ Application-level heart-beating protocol;
 
 ### Documentation
 1. [Tao - Go语言实现的TCP网络编程框架](http://www.jianshu.com/p/c322edca985f)
-2. [Tao Framework API Reference](https://github.com/leesper/tao/blob/master/DOCUMENTATION.md)
+2. [Tao Framework API Reference](https://github.com/warnstar/tao/blob/master/DOCUMENTATION.md)
 3. English(TBD)
 
 ### Chat Server Example
@@ -131,9 +131,9 @@ import (
 	"fmt"
 	"net"
 
-	"github.com/leesper/holmes"
-	"github.com/leesper/tao"
-	"github.com/leesper/tao/examples/chat"
+	"github.com/warnstar/holmes"
+	"github.com/warnstar/tao"
+	"github.com/warnstar/tao/examples/chat"
 )
 
 // ChatServer is the chatting server.

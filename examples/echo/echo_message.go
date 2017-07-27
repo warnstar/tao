@@ -3,8 +3,8 @@ package echo
 import (
 	"context"
 
-	"github.com/leesper/holmes"
-	"github.com/leesper/tao"
+	"github.com/warnstar/holmes"
+	"github.com/warnstar/tao"
 )
 
 // Message defines the echo message.

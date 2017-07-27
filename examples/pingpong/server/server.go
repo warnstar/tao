@@ -5,9 +5,9 @@ import (
 	"net"
 	"runtime"
 
-	"github.com/leesper/holmes"
-	"github.com/leesper/tao"
-	"github.com/leesper/tao/examples/pingpong"
+	"github.com/warnstar/holmes"
+	"github.com/warnstar/tao"
+	"github.com/warnstar/tao/examples/pingpong"
 )
 
 // PingPongServer defines pingpong server.

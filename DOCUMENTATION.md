@@ -1,7 +1,7 @@
 # Documentation
 
 ```go
-import "github.com/leesper/tao"
+import "github.com/warnstar/tao"
 ```
 
 ## Overview
